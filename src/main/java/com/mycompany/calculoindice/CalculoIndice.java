@@ -34,4 +34,5 @@ public class CalculoIndice {
 
         System.out.println("A soma dos " + INDICE + " primeiros números inteiros é: " + SOMA);
     }
+
 }
