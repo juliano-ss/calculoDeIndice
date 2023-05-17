@@ -26,4 +26,4 @@ java CalculoIndice
 
 ## Contribuição
 
-Este projeto foi desenvolvido como parte de um exercício de programação.
+Este projeto foi desenvolvido como parte de um exercício de programação. Fique a vontade para dar sugestões.
